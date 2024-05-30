@@ -1,0 +1,19 @@
+.inner-container{
+    gap:1.5rem;
+    background: #172D13;
+    padding: 2rem;
+    border-radius: 10px;
+    border: 6px solid #172D13;
+    text-align: center;
+
+}
+
+.inner-container .primaryText{
+    color: #7DA2A9;
+    font-weight: 600;
+}
+
+.inner-container .secondaryText{
+    color: #7DA2A9;
+    font-weight: 500;
+}
